@@ -1,5 +1,7 @@
-# Kodluyoruz-Homework-1
+# Kodluyoruz Homework 1
+
 ## Bu repo JavaScript, css ve Html bilgileri kullanılarak "Kodluyoruz" platformundaki "JavaScript" dersinin ilk ödevi olarak hazırlanmıştır.
+
 <br/>
 <br/>
 
